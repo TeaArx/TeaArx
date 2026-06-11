@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Привет, я TeaArx 👋</h1>
 
-<!--
-**TeaArx/TeaArx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Инженер-программист | Python • PHP • C# • JavaScript • Vue • Next.js
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Обо мне
+
+- Пишу backend, desktop и web-приложения
+- Работаю с Python, PHP, C#, JavaScript
+- Использую Vue, Next.js, Electron, SQL
+- Разбираюсь с интеграциями, API, базами данных и автоматизацией
+
+---
+
+### 🛠️ Стек
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### 📌 Проекты
+
+- **Markdown Workspace** — desktop Markdown editor на Electron + Vue
+- **API / SQL интеграции** — обработка данных, синхронизация, webhook-скрипты
+- **UI Kit** — компоненты для frontend-проектов
+
+---
+
+### 📊 GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeaArx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&theme=tokyonight)
