@@ -57,68 +57,6 @@ My work usually combines application development with business logic, SQL, integ
 
 ---
 
-## Main Areas
-
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>API services, business logic, integrations, automation</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>Vue, Next.js, reusable UI components, internal tools</td>
-  </tr>
-  <tr>
-    <td><b>Desktop</b></td>
-    <td>Electron applications, local file workflows, app settings</td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>SQL, ETL, data synchronization, reporting logic</td>
-  </tr>
-</table>
-
----
-
-## Selected Projects
-
-### Markdown Workspace
-
-Desktop Markdown editor built with Electron and Vue.
-
-Key focus:
-
-- desktop application architecture;
-- secure communication between main and renderer processes;
-- local file open/save workflows;
-- settings persistence;
-- clean editor interface.
-
-### Dynamica UI Kit
-
-Reusable frontend component library.
-
-Key focus:
-
-- shared UI components;
-- frontend consistency;
-- package configuration;
-- component-driven development.
-
-### API Integrations & Data Processing
-
-Backend scripts and services for automation, integrations, and data synchronization.
-
-Key focus:
-
-- webhooks;
-- ETL processes;
-- SQL transformations;
-- API integrations;
-- internal business automation.
-
----
-
 ## Repository Highlights
 
 <p align="center">
@@ -148,11 +86,4 @@ Key focus:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/TeaArx">GitHub Profile</a>
-</p>
 
