@@ -61,19 +61,19 @@ My work usually combines application development with business logic, SQL, integ
 
 <p align="center">
   <a href="https://github.com/TeaArx/Services-map">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Services-map&hide_border=true" alt="Services-map" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Services-map&hide_border=true&theme=github_dark" alt="Services-map" />
   </a>
   <a href="https://github.com/TeaArx/tasker-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=tasker-front&hide_border=true" alt="tasker-front" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=tasker-front&hide_border=true&theme=github_dark" alt="tasker-front" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TeaArx/Link-Shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Link-Shortener&hide_border=true" alt="Link-Shortener" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Link-Shortener&hide_border=true&theme=github_dark" alt="Link-Shortener" />
   </a>
   <a href="https://github.com/TeaArx/document-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=document-service&hide_border=true" alt="document-service" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=document-service&hide_border=true&theme=github_dark" alt="document-service" />
   </a>
 </p>
 
@@ -82,8 +82,8 @@ My work usually combines application development with business logic, SQL, integ
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeaArx&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeaArx&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 </p>
 
 
