@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я TeaArx 👋</h1>
+<h1 align="center">Привет, я TeaArx </h1>
 
 <p align="center">
   Инженер-программист | Python • PHP • C# • JavaScript • Vue • Next.js
@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 Обо мне
+### Обо мне
 
 - Пишу backend, desktop и web-приложения
 - Работаю с Python, PHP, C#, JavaScript
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Стек
+### Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📌 Проекты
+### Проекты
 
 - **Markdown Workspace** — desktop Markdown editor на Electron + Vue
 - **API / SQL интеграции** — обработка данных, синхронизация, webhook-скрипты
@@ -35,7 +35,4 @@
 ---
 
 ### 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeaArx&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&theme=tokyonight)
