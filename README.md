@@ -1,89 +1,60 @@
-<h1 align="center">TeaArx</h1>
+<h1 align="center">Egor | TeaArx</h1>
 
 <p align="center">
-  <b>Software Engineer</b>
+  <strong>Software Engineer</strong><br>
+  Backend, frontend, desktop applications and infrastructure tools
 </p>
 
-<p align="center">
-  Backend • Frontend • Desktop • API Integrations • Data Processing
-</p>
+## About me
 
-<p align="center">
-  <a href="https://github.com/TeaArx">
-    <img src="https://komarev.com/ghpvc/?username=TeaArx&style=flat-square&color=2563eb" alt="Profile views" />
-  </a>
-</p>
+I build practical software for business workflows, automation and system administration. My work covers the full delivery cycle: data modelling, backend APIs, integrations, user interfaces, desktop applications, deployment and maintenance.
 
----
+My main areas of experience are:
 
-## About
+- internal business systems and workflow automation;
+- REST APIs, third-party integrations and data processing;
+- web applications with Vue, React and Next.js;
+- Windows desktop applications with WPF and Electron;
+- SQL databases, Docker-based environments and CI/CD.
 
-I am a software engineer focused on building practical software solutions: backend services, frontend interfaces, desktop applications, API integrations, automation scripts, and data processing tools.
+## Core stack
 
-My work usually combines application development with business logic, SQL, integrations, webhooks, and internal automation.
+| Area | Technologies |
+|---|---|
+| Languages | Python, PHP, C#, JavaScript, TypeScript, SQL |
+| Backend | Django, Django REST Framework, FastAPI, ASP.NET Core |
+| Frontend | Vue 3, React, Next.js, Tailwind CSS |
+| Desktop | WPF, MVVM, Electron |
+| Data | Microsoft SQL Server, PostgreSQL, MySQL, SQLite |
+| Infrastructure | Docker, Nginx, GitHub Actions, GitLab CI |
+| Integrations | REST APIs, webhooks, SSH/SFTP, Kafka, S3-compatible storage |
 
----
+## Selected projects
 
-## Tech Stack
+### [Server Control Center](https://github.com/TeaArx/Server-Control-Center)
 
-### Languages
+Windows application for day-to-day Linux server administration over SSH and SFTP. It combines connection profiles, a terminal, resource monitoring, remote logs, saved commands and file management.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
-</p>
+**Stack:** C#, .NET 10, WPF, MVVM, SQLite, Entity Framework Core, SSH.NET, xUnit, Docker.
 
-### Frontend & Desktop
+### [Markdown Workspace](https://github.com/TeaArx/Markdown-Workspace)
 
-<p>
-  <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-</p>
+Desktop Markdown editor with syntax highlighting, Mermaid diagrams, local packaging, automated GitHub Releases and application updates.
 
-### Databases & Tools
+**Stack:** Electron, Vue 3, TypeScript, Pinia, Markdown-it, Mermaid, GitHub Actions.
 
-<p>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+### [Services Map](https://github.com/TeaArx/Services-map)
 
----
+Full-stack internal system for maintaining a service catalogue and tracking recurring operational problems and responsible teams.
 
-## Repository Highlights
+**Stack:** Python, Django REST Framework, Next.js, React, PostgreSQL, Docker, Nginx, GitLab CI.
 
-<p align="center">
-  <a href="https://github.com/TeaArx/Services-map">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Services-map&hide_border=true&theme=github_dark" alt="Services-map" />
-  </a>
-  <a href="https://github.com/TeaArx/tasker-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=tasker-front&hide_border=true&theme=github_dark" alt="tasker-front" />
-  </a>
-</p>
+### [Tasker Front](https://github.com/TeaArx/tasker-front)
 
-<p align="center">
-  <a href="https://github.com/TeaArx/Link-Shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=Link-Shortener&hide_border=true&theme=github_dark" alt="Link-Shortener" />
-  </a>
-  <a href="https://github.com/TeaArx/document-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeaArx&repo=document-service&hide_border=true&theme=github_dark" alt="document-service" />
-  </a>
-</p>
+Frontend prototype for document workflow and request management with tables, filtering, pagination, templates, user profiles and light/dark themes.
 
----
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Flowbite.
 
-## GitHub Stats
+## Engineering focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeaArx&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaArx&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
-
-
+I prefer software that solves a concrete operational problem and can be maintained after release. I pay particular attention to clear architecture, safe data handling, API contracts, deployment automation and useful technical documentation.
